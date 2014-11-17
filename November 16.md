@@ -36,7 +36,7 @@ something along the lines of
 Who is Fred to Freddy?
 ```
 
-which should return something like `Fred is Child of Freddy'.  If there are
+which should return something like `Fred is Child of Freddy`.  If there are
 more complex relations, for instance
 
 ```

@@ -64,4 +64,6 @@ I worked about 4 hours this week.  Should probably step it up next week. :(
 
 ## Post-critique summary
 
+Yeah, I didn't say much to critique last time. :(
+
 ## Post-critique reflection
